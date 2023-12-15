@@ -11,4 +11,4 @@ Follow along with Frank Moley as he gives you an overview of how to use Spring B
 Frank Moley
 
 [URL-lil-course]: https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3
-[URL-lil-thumbnail]: https://media.licdn.com/dms/image/D560DAQHIALbX3heJRg/learning-public-crop_675_1200/0/1700601834997?e=2147483647&v=beta&t=eZfhZ7wgSSrsW1pW26fsca5DNZlPiND3jqKqnY3cJS4
+[lil-thumbnail-url]: https://user-images.githubusercontent.com/28540243/200742696-e631d384-f572-4306-8283-0fc456243b82.jpeg

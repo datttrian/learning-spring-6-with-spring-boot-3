@@ -4,7 +4,18 @@
 	"name": "Java & PostgreSQL",
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "app",
-	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+	"customizations": {
+        "vscode": {
+            "extensions": [
+                "redhat.java",
+				"redhat.fabric8-analytics",
+				"sohibe.java-generate-setters-getters",
+				"streetsidesoftware.code-spell-checker",
+				"vscjava.vscode-spring-initializr"
+            ]
+        }
+    }
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {}
