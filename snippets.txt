@@ -3,9 +3,12 @@ docker ps
 docker exec -it pg-docker /bin/bash
 psql -d local postgres
 // https://httpie.io/docs/cli/linux
-# Install httpie
 curl -SsL https://packages.httpie.io/deb/KEY.gpg | sudo gpg --dearmor -o /usr/share/keyrings/httpie.gpg
 sudo echo "deb [arch=amd64 signed-by=/usr/share/keyrings/httpie.gpg] https://packages.httpie.io/deb ./" > /etc/apt/sources.list.d/httpie.list
 sudo apt update
 sudo apt install httpie
 http :8080/api/rooms
+http :8080/api/guests
+http :8080/api/guests/100
+http :8080/api/reservations
+http :8080/api/reservations/1
