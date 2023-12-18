@@ -12,7 +12,8 @@
 				"sohibe.java-generate-setters-getters",
 				"streetsidesoftware.code-spell-checker",
 				"vscjava.vscode-spring-initializr",
-				"redhat.vscode-xml"
+				"redhat.vscode-xml",
+				"juhahinkula.thymeleaf"
             ]
         }
     }
