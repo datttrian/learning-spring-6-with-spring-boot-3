@@ -10,10 +10,12 @@
 				"vscjava.vscode-java-pack",
 				"redhat.fabric8-analytics",
 				"sohibe.java-generate-setters-getters",
-				"streetsidesoftware.code-spell-checker",
 				"vscjava.vscode-spring-initializr",
 				"redhat.vscode-xml",
-				"juhahinkula.thymeleaf"
+				"juhahinkula.thymeleaf",
+
+				"streetsidesoftware.code-spell-checker",
+				"GitHub.copilot"
             ]
         }
     }
