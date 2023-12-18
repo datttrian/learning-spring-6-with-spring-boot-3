@@ -7,7 +7,7 @@
 	"customizations": {
         "vscode": {
             "extensions": [
-                "redhat.java",
+				"vscjava.vscode-java-pack",
 				"redhat.fabric8-analytics",
 				"sohibe.java-generate-setters-getters",
 				"streetsidesoftware.code-spell-checker",
